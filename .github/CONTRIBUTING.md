@@ -19,6 +19,10 @@ Stack Overflow, to ensure that it is answered promptly and accurately.
 
 Please be aware of the following things when filing bug reports:
 
+If you think you have found a security vulnerability, please do not report it
+in a public issue. Follow the [security policy](/.github/SECURITY.md) to report
+it privately.
+
 1. Avoid raising duplicate issues. *Please* use the GitHub issue search feature
    to check whether your bug report or feature request has been mentioned in
    the past. Duplicate bug reports and feature requests are a huge maintenance
